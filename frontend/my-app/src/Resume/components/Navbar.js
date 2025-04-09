@@ -24,9 +24,9 @@ const Navbar = () => {
           <Button color="inherit" component={Link} to="/projects" sx={{ margin: 1 }}>
             Projects
           </Button>
-          <Button color="inherit" component={Link} to="/resume" sx={{ margin: 1 }}>
+        {/*  <Button color="inherit" component={Link} to="/resume" sx={{ margin: 1 }}>
             Resume/CV
-          </Button>
+          </Button> */}
          
           
           <Button color="inherit" component={Link} to="/hobbies" sx={{ margin: 1 }}>
