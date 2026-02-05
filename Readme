@@ -1,17 +1,14 @@
 
-***
 
 # Developer Portfolio – React, Node.js, PostgreSQL
 
 This is my **personal developer portfolio** showcasing my skills, projects, and experience, built as a full-stack application with React on the frontend and Node.js + PostgreSQL on the backend, containerized with Docker and deployed with Netlify/GitHub Pages. [github](https://github.com/SaiVinay023/Portfolio_website_using_React)
 
-***
 
 ## Live Demo
 
 - **Portfolio URL**: https://svmanda.netlify.app/ [github](https://github.com/SaiVinay023/Portfolio_website_using_React)
 
-***
 
 ## Features Implemented
 
@@ -69,7 +66,7 @@ This is my **personal developer portfolio** showcasing my skills, projects, and 
 
 ## Project Structure
 
-```bash
+```
 Portfolio_website_using_React/
 ├── backend/              # Node.js backend (APIs, DB integration)
 ├── frontend/             # React frontend source code
@@ -94,7 +91,7 @@ Portfolio_website_using_React/
 
 ### Clone the repository
 
-```bash
+```
 git clone https://github.com/SaiVinay023/Portfolio_website_using_React.git
 cd Portfolio_website_using_React
 ```
@@ -102,7 +99,7 @@ cd Portfolio_website_using_React
 
 ### Run the frontend locally
 
-```bash
+```
 cd frontend
 npm install
 npm run dev
@@ -112,7 +109,7 @@ Then open `http://localhost:5173` in your browser (Vite default). [github](https
 
 ### (Optional) Run backend + PostgreSQL with Docker
 
-```bash
+```
 docker-compose up -d
 ```
 
